@@ -1,4 +1,5 @@
 import { useState } from "react";
+
 const Hooks1 = () => {
   const [count, setCount] = useState(0);
   const styles = {
